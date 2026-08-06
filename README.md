@@ -12,7 +12,9 @@ Note: all dependencies can be installed using the file in the `.dependencies` fo
 | Linux | `sudo apt-get install python3.12` |
 | MacOS | `brew install python@3.12` |
 #### CustomTkinter (CTk):
-`pip install customtkinter`
+```bash
+pip install customtkinter
+```
 ### Running
 The tool can be run using Python:
 ```bash
@@ -21,6 +23,12 @@ python3 main.py
 ### Building
 Can be built for Windows using [py2exe](https://www.py2exe.org/)
 ## Changelog
+### v0.0.1 Setup #2 Cleanup #1
+Commit Message: `Rename for spelling` <br>
+Initial Branch: `main` (merged) <br>
+#### Changes:
+Renamed `.dependancies` to `.dependencies` <br>
+Renamed `.dependancies\getDependancies.bat` to `.dependencies\windows.bat`
 ### v0.0.1 Setup #2
 Commit Message: `Added batchfile to get dependancies for windows` <br>
 Initial Branch: `main` (merged) <br>
