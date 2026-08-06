@@ -21,6 +21,12 @@ python3 main.py
 ### Building
 Can be built for Windows using [py2exe](https://www.py2exe.org/)
 ## Changelog
+### v0.0.1 Setup #2 Cleanup #1
+Commit Message: `Rename for spelling` <br>
+Initial Branch: `main` (merged) <br>
+#### Changes:
+Renamed `.dependancies` to `.dependencies` <br>
+Renamed `.dependancies\getDependancies.bat` to `.dependencies\windows.bat`
 ### v0.0.1 Setup #2
 Commit Message: `Added batchfile to get dependancies for windows` <br>
 Initial Branch: `main` (merged) <br>
